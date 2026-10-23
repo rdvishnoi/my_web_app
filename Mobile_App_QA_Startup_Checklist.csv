@@ -1,0 +1,13 @@
+Phase,Checklist Item,Status,Remarks
+Pre-Development / Planning,"Requirement Review - Verify requirements are clear, complete, testable",,
+Pre-Development / Planning,Platform & Device Coverage - Decide supported OS versions and devices,,
+Pre-Development / Planning,"Test Strategy Setup - Define scope, levels, manual vs automation",,
+Pre-Development / Planning,"Test Environment Planning - Setup build sharing, backend availability, test data",,
+Design Stage,"UI/UX Review - Validate wireframes/mockups, usability, platform guidelines",,
+Design Stage,Test Case Preparation - Draft high-level & edge case scenarios,,
+Early Development,"Build Validation - Installation, launch, navigation smoke test",,
+Early Development,"API/Integration Checks - Verify request/response, offline & failure cases",,
+Early Development,"Basic Security & Permissions - Ensure least permissions, secure storage",,
+Early Development,"Logging & Crash Handling - Validate error handling, crash reporting setup",,
+Before UAT/Release,Regression Coverage - Ensure stability across devices & OS versions,,
+Before UAT/Release,"Store Readiness - Validate app icon, name, version, compliance",,
